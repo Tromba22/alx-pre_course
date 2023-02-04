@@ -1,2 +1,2 @@
 My first readme
-My first readme
+This course is Amazing! 
